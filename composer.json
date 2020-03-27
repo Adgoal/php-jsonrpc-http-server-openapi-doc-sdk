@@ -1,10 +1,10 @@
 {
-  "name": "yoanm/jsonrpc-http-server-openapi-doc-sdk",
+  "name": "adgoal/jsonrpc-http-server-openapi-doc-sdk",
   "description": "SDK to generate Http JSON-RPC server documentation for OpenAPI v3.0.0",
   "license": "MIT",
   "type": "library",
   "support": {
-    "issues": "https://github.com/yoanm/php-jsonrpc-http-server-openapi-doc-sdk/issues"
+    "issues": "https://github.com/adgoal/php-jsonrpc-http-server-openapi-doc-sdk/issues"
   },
   "authors": [
     {
@@ -25,13 +25,13 @@
     }
   },
   "suggest": {
-    "yoanm/symfony-jsonrpc-http-server-openapi-doc": "Symfony bundle for easy JSON-RPC server OpenAPI 3.0.0 documentation",
-    "yoanm/symfony-jsonrpc-http-server-doc": "Symfony bundle for easy JSON-RPC server documentation",
+    "adgoal/symfony-jsonrpc-http-server-openapi-doc": "Symfony bundle for easy JSON-RPC server OpenAPI 3.0.0 documentation",
+    "adgoal/symfony-jsonrpc-http-server-doc": "Symfony bundle for easy JSON-RPC server documentation",
     "yoanm/symfony-jsonrpc-http-server": "Symfony Bundle to convert an HTTP json-rpc request into HTTP json-rpc response"
   },
   "require": {
-    "php": ">=7.1",
-    "yoanm/jsonrpc-server-doc-sdk": "^0.2"
+    "php": ">=7.3",
+    "yoanm/jsonrpc-server-doc-sdk": "^0.3"
   },
   "require-dev": {
     "ext-json": "*",

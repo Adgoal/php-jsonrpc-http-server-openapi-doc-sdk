@@ -9,7 +9,7 @@
 
 SDK to generate Http JSON-RPC server documentation for OpenAPI v3.0.0
 
-See [`yoanm/symfony-jsonrpc-http-server-openapi-doc`](https://github.com/yoanm/symfony-jsonrpc-http-server-openapi-doc) for automatic dependency injection.
+See [`adgoal/symfony-jsonrpc-http-server-openapi-doc`](https://github.com/yoanm/symfony-jsonrpc-http-server-openapi-doc) for automatic dependency injection.
 
 ## How to use
 
